@@ -11,4 +11,6 @@
   <img src="https://img.shields.io/badge/Cypress-green"/>
   <img src="https://img.shields.io/badge/JavaScript-yellow"/>
   <img src="https://img.shields.io/badge/Python-blue"/>
+  <img src="https://img.shields.io/badge/Jmeter-red"/>
+  <img src="https://img.shields.io/badge/Postman-orange"/>
 </p>
