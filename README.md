@@ -14,3 +14,9 @@
   <img src="https://img.shields.io/badge/Jmeter-red"/>
   <img src="https://img.shields.io/badge/Postman-orange"/>
 </p>
+
+## 🐍 Contributions Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mileeski/Mileeski/output/github-contribution-grid-snake.svg"/>
+</p>
