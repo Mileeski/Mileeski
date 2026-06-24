@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/Python-blue"/>
   <img src="https://img.shields.io/badge/Jmeter-red"/>
   <img src="https://img.shields.io/badge/Postman-orange"/>
+  <img src="https://img.shields.io/badge/Playwright-yellow"/>
 </p>
 
 ## 🐍 Contributions Snake
